@@ -1,5 +1,5 @@
 body{
-	text-align: center;
+    text-align: center;
 }
 
 .headTitle{
@@ -29,4 +29,9 @@ body{
 
 .gooseWarFace:hover .gooseWarFacetext {
 	visibility: visible;
+}
+
+.form-group{
+    text-align: left;
+    
 }
