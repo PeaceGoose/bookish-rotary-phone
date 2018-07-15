@@ -1,9 +1,9 @@
-alert("ur mum ghey")
+var button= document.getElementsByClassName('form-check-label')
 
-var button = false;
-
-var checkit = function () {
-    if (button.checked = true) {
-        
+function poop () {
+    if (button.clicked === true) {
+    alert('fegit')
+    } else {
+        alert ("ur straight")
     }
 }
